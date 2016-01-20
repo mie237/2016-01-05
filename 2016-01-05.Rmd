@@ -4,13 +4,13 @@ author: "Neil Montgomery"
 date: '2016-01-05'
 output: 
   ioslides_presentation:
-    transition: faster
+    css: styles.css
 ---
 # preliminaries
 
 ## Administrative Details 
 
- | 
+foo | bar
 --|--
 date format | ISO8601
 no class | 2016-02-12 (Friday before reading week)
